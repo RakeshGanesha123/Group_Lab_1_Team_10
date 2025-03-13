@@ -6,13 +6,11 @@ package model;
 
 /**
  *
- * @author sriha
+ * @author iamni
  */
-public class Main {
-   public static void main(String[] args) {
-        Member1.main(args);
-        Member2.main(args);
-        Member3.main(args);
-        
+public class Member2 {
+    public static void main(String[] args) {
+        System.out.println("Hello from Member 2!");
     }
+    
 }
